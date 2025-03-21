@@ -64,3 +64,5 @@ class Program
 
 **Compilación**
 ![image](https://github.com/user-attachments/assets/83492f14-e899-4664-b992-8e723ee3ffa3)
+
+> El propósito del Logger es que cualquier parte del programa pueda registrar eventos sin depender de la consola.
