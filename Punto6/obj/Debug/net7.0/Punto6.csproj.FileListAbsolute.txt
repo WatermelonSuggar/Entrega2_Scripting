@@ -1,0 +1,14 @@
+C:\Users\nisaz\OneDrive\Escritorio\UNIVERSIDAD\SCRIPTING\Punto6\bin\Debug\net7.0\Punto6.exe
+C:\Users\nisaz\OneDrive\Escritorio\UNIVERSIDAD\SCRIPTING\Punto6\bin\Debug\net7.0\Punto6.deps.json
+C:\Users\nisaz\OneDrive\Escritorio\UNIVERSIDAD\SCRIPTING\Punto6\bin\Debug\net7.0\Punto6.runtimeconfig.json
+C:\Users\nisaz\OneDrive\Escritorio\UNIVERSIDAD\SCRIPTING\Punto6\bin\Debug\net7.0\Punto6.dll
+C:\Users\nisaz\OneDrive\Escritorio\UNIVERSIDAD\SCRIPTING\Punto6\bin\Debug\net7.0\Punto6.pdb
+C:\Users\nisaz\OneDrive\Escritorio\UNIVERSIDAD\SCRIPTING\Punto6\obj\Debug\net7.0\Punto6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisaz\OneDrive\Escritorio\UNIVERSIDAD\SCRIPTING\Punto6\obj\Debug\net7.0\Punto6.AssemblyInfoInputs.cache
+C:\Users\nisaz\OneDrive\Escritorio\UNIVERSIDAD\SCRIPTING\Punto6\obj\Debug\net7.0\Punto6.AssemblyInfo.cs
+C:\Users\nisaz\OneDrive\Escritorio\UNIVERSIDAD\SCRIPTING\Punto6\obj\Debug\net7.0\Punto6.csproj.CoreCompileInputs.cache
+C:\Users\nisaz\OneDrive\Escritorio\UNIVERSIDAD\SCRIPTING\Punto6\obj\Debug\net7.0\Punto6.dll
+C:\Users\nisaz\OneDrive\Escritorio\UNIVERSIDAD\SCRIPTING\Punto6\obj\Debug\net7.0\refint\Punto6.dll
+C:\Users\nisaz\OneDrive\Escritorio\UNIVERSIDAD\SCRIPTING\Punto6\obj\Debug\net7.0\Punto6.pdb
+C:\Users\nisaz\OneDrive\Escritorio\UNIVERSIDAD\SCRIPTING\Punto6\obj\Debug\net7.0\Punto6.genruntimeconfig.cache
+C:\Users\nisaz\OneDrive\Escritorio\UNIVERSIDAD\SCRIPTING\Punto6\obj\Debug\net7.0\ref\Punto6.dll
